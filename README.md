@@ -13,6 +13,7 @@ You are not allowed to collaborate during the sprint challenge. However, you are
 _You have **three hours** to complete this challenge. Plan your time accordingly._
 
 
+
 ## Introduction
 
 In this project you will create a login page and request a token from the server that you'll use to send all other requests to the server. You will then be able to fetch the color data array, update data, and delete data, and watch the fun happen!
