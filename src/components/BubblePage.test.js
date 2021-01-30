@@ -14,7 +14,6 @@ test("Fetches data and renders the bubbles on mounting", () => {
   render(<BubblePage />)
 
   const bubbles = screen.findByRole("Bubbles")
-  
   expect(bubbles).not.toBeNull()
   
 });
